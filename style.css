@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+.full {
+    height: 100vh;
+    width: 100%;
+    background-color: #F9FAFF;
+}
+
+.nav-bar {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    background-color: transparent;
+    position: relative;
+    z-index: 2;
+}
+
+.name-container {
+    width: 20%;
+    text-align: center;
+    min-width: 50px;
+}
+
+.space {
+    width: calc(50% - 100px);
+    min-width: none;
+}
+
+.pages {
+    width: 30%;
+    min-width: 50px;
+    display: flex;
+}
+
+.head {
+    margin-right: 10%;
+    white-space: nowrap;
+}
+
+.corner-photo {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 700px;
+    height: 550px;
+    z-index: 1;
+}
+
+.top {
+    width: 50%;
+    height: 550px;
+    background-color: yellow;
+}
+
+.projects-h {
+    text-align: center;
+}
+
