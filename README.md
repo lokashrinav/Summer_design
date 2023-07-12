@@ -1,4 +1,4 @@
-# Project Name
+# Summer Design
 
 This project is a conversion of a design into code, creating a web page based on the provided design.
 
