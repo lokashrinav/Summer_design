@@ -263,3 +263,8 @@ body {
     height: 540px;
     display: flex;
 }
+
+a {
+    text-decoration: none;
+    color: black
+}
